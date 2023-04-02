@@ -1,15 +1,10 @@
-# "Express JS Tutorial - MVC Example CRUD REST API"
+# Node & Express Practice Project
 
-✅ [Check out my YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).
+## Description
+Following a youtube learning course on Node JS & Express to build an API with CRUD functionality. Through this tutorial I learnt the basics of Node JS and express and how to integrate with a MongoDB database.
 
-**Description:**
+With this knowledge I plan to create the backend for a React application I am currently working on.
 
-This repository shares the code applied during the Youtube tutorial. The tutorial is part of a [Node.js & Express for Beginners Playlist](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6PFkIxaJ6Xx_X46avTM1aYw) on my channel.  
-
-[YouTube Tutorial](https://youtu.be/Dco1gzVZKVk) for this repository.
-
-I suggest completing my [8 hour JavaScript course tutorial video](https://youtu.be/EfAl9bwzVZk) if you are new to Javascript.
-
-### Academic Honesty
-
-**DO NOT COPY FOR AN ASSIGNMENT** - Avoid plagiargism and adhere to the spirit of this [Academic Honesty Policy](https://www.freecodecamp.org/news/academic-honesty-policy/).
+## Source
+The code in this project is based off the youtube learning course by Dave Gray, available here:
+https://www.youtube.com/watch?v=f2EqECiTBL8&t=13436s&ab_channel=DaveGray
