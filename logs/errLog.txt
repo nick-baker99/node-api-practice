@@ -1,0 +1,2 @@
+20230401	16:35:17	ec6245b8-6277-4e0d-b5e5-4127050d6489	Error: secretOrPrivateKey must have a value
+20230402	09:54:53	3922010d-c3bd-4558-b7cd-698ab521b3e3	TypeError: req.roles.app is not a function
